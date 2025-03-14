@@ -1,0 +1,31 @@
+_repo: The-romance-of-comets_75545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Proctor, Mary
+    birthdate: 1862
+    deathdate: 1957
+    gutenberg_agent_id: '48101'
+    url: http://www.gutenberg.org/2009/agents/48101
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Proctor
+description: ''
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75545'
+language: en
+pgterms:marc904: https://archive.org/details/romanceofcomets00proc/page/n9/mode/2up
+pgterms:marc905: 20220401012734proctor
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The romance of comets
+url: http://www.gutenberg.org/ebooks/75545
